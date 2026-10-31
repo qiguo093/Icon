@@ -27,9 +27,10 @@
     {"name":"TVB", "url":"https://raw.githubusercontent.com/qiguo093/Emby/main/Logo/TVB(1).png"},
     {"name":"TVB（1）", "url":"https://raw.githubusercontent.com/qiguo093/Emby/main/Logo/TVB(2).png"},
     {"name":"TVB（2）", "url":"https://raw.githubusercontent.com/qiguo093/Emby/main/Logo/TVB(3).png"},
-    {"name":"Youtube", "url":"https://raw.githubusercontent.com/qiguo093/Emby/main/Logo/Youtube(1).png"},
-    {"name":"Youtube（1）", "url":"https://raw.githubusercontent.com/qiguo093/Emby/main/Logo/Youtube(2).png"},
-    {"name":"Youtube（2）", "url":"https://raw.githubusercontent.com/qiguo093/Emby/main/Logo/Youtube(3).png"},
+    {"name":"YouTube", "url":"https://raw.githubusercontent.com/qiguo093/Emby/main/Logo/Youtube(1).png"},
+    {"name":"YouTube（2)", "url":"https://raw.githubusercontent.com/qiguo093/Emby/main/Logo/YouTube.png"},
+    {"name":"Youtube（3）", "url":"https://raw.githubusercontent.com/qiguo093/Emby/main/Logo/Youtube(2).png"},
+    {"name":"Youtube（4）", "url":"https://raw.githubusercontent.com/qiguo093/Emby/main/Logo/Youtube(3).png"},
     {"name":"hulu", "url":"https://raw.githubusercontent.com/qiguo093/Emby/main/Logo/hulu(1).png"},
     {"name":"hulu（1）", "url":"https://raw.githubusercontent.com/qiguo093/Emby/main/Logo/hulu(2).png"},
     {"name":"hulu（2）", "url":"https://raw.githubusercontent.com/qiguo093/Emby/main/Logo/hulu(3).png"},
@@ -193,6 +194,13 @@
     {"name":"记录片", "url":"https://raw.githubusercontent.com/qiguo093/Emby/main/Logo/纪录片.PNG"},
     {"name":"国内综艺", "url":"https://raw.githubusercontent.com/qiguo093/Emby/main/Logo/综艺_CN.PNG"},
     {"name":"国外综艺", "url":"https://raw.githubusercontent.com/qiguo093/Emby/main/Logo/综艺_EN.PNG"},
+
+    {"name":"Home", "url":"https://raw.githubusercontent.com/qiguo093/Emby/main/Logo/Home.png"},
+    {"name":"Movie", "url":"https://raw.githubusercontent.com/qiguo093/Emby/main/Log/Movie.png"},
+    {"name":"Tv（1)", "url":"https://raw.githubusercontent.com/qiguo093/Emby/main/Logo/Tv_1.png"},
+    {"name":"Tv（2)", "url":"https://raw.githubusercontent.com/qiguo093/Emby/main/Logo/Tv_2.png"},
+    {"name":"Bilibili", "url":"https://raw.githubusercontent.com/qiguo093/Emby/main/Logo/Bilibili.png"},
+    {"name":"MiniBili", "url":"https://raw.githubusercontent.com/qiguo093/Emby/main/Logo/MiniBili.png"},
 
 
     {"name":"未完待续🫥", "url":"https://raw.githubusercontent.com/qiguo093/Emby/main/Logo/未完待续.PNG"},
