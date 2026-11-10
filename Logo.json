@@ -1,6 +1,10 @@
 {
   "name":"𝑳𝒐𝒈𝒐图标 🏖️", "description":"个人收藏的流媒体平台/影视公司𝑳𝒐𝒈𝒐图集💯",
   "icons":[
+    {"name":"Emby·𝓖", "url":"https://raw.githubusercontent.com/qiguo093/Emby/main/Logo/Emby_3.png"},
+    {"name":"Emby·𝓖", "url":"https://raw.githubusercontent.com/qiguo093/Emby/main/Logo/Emby_4.png"},
+    {"name":"Emby·𝓖", "url":"https://raw.githubusercontent.com/qiguo093/Emby/main/Logo/Emby_5.png"},
+    {"name":"Emby·𝓖", "url":"https://raw.githubusercontent.com/qiguo093/Emby/main/Logo/Emby_6.png"},
     {"name":"ATV", "url":"https://raw.githubusercontent.com/qiguo093/Emby/main/Logo/ATV(1).png"},
     {"name":"ATV（1）", "url":"https://raw.githubusercontent.com/qiguo093/Emby/main/Logo/ATV(2).png"},
     {"name":"ATV（2）", "url":"https://raw.githubusercontent.com/qiguo093/Emby/main/Logo/ATV(3).png"},
@@ -80,12 +84,9 @@
     {"name":"CCTV", "url":"https://raw.githubusercontent.com/qiguo093/Emby/main/Logo/CCTV.png"},
     {"name":"CCTV-1", "url":"https://raw.githubusercontent.com/qiguo093/Emby/main/Logo/CCTV-1.png"},
     {"name":"CCTV-8", "url":"https://raw.githubusercontent.com/qiguo093/Emby/main/Logo/CCTV-8.png"},
-    {"name":"Emby", "url":"https://raw.githubusercontent.com/qiguo093/Emby/main/Logo/Emby_1.png"},
-    {"name":"Emby（1）", "url":"https://raw.githubusercontent.com/qiguo093/Emby/main/Logo/Emby_2.png"},
-    {"name":"Emby（2）", "url":"https://raw.githubusercontent.com/qiguo093/Emby/main/Logo/Emby_3.png"},
-    {"name":"Emby（3）", "url":"https://raw.githubusercontent.com/qiguo093/Emby/main/Logo/Emby_4.png"},
-    {"name":"Emby（4）", "url":"https://raw.githubusercontent.com/qiguo093/Emby/main/Logo/Emby_5.png"},
-    {"name":"Emby（5）", "url":"https://raw.githubusercontent.com/qiguo093/Emby/main/Logo/Emby_6.png"},
+    
+    
+    
     {"name":"Forward", "url":"https://raw.githubusercontent.com/qiguo093/Emby/main/Logo/Forward.png"},
     {"name":"Forward（1）", "url":"https://raw.githubusercontent.com/qiguo093/Emby/main/Logo/Forward_2.png"},
     {"name":"Forward（2）", "url":"https://raw.githubusercontent.com/qiguo093/Emby/main/Logo/Forward_3.png"},
@@ -197,6 +198,8 @@
     {"name":"国内综艺", "url":"https://raw.githubusercontent.com/qiguo093/Emby/main/Logo/综艺_CN.PNG"},
     {"name":"国外综艺", "url":"https://raw.githubusercontent.com/qiguo093/Emby/main/Logo/综艺_EN.PNG"},
 
+    {"name":"Emby·白", "url":"https://raw.githubusercontent.com/qiguo093/Emby/main/Logo/Emby.png"},
+    {"name":"Emby·黑", "url":"https://raw.githubusercontent.com/qiguo093/Emby/main/Logo/Emby_2.png"},
     {"name":"Home", "url":"https://raw.githubusercontent.com/qiguo093/Emby/main/Logo/Home.png"},
     {"name":"Account", "url":"https://raw.githubusercontent.com/qiguo093/Emby/main/Logo/Account.png"},
     {"name":"Movie", "url":"https://raw.githubusercontent.com/qiguo093/Emby/main/Logo/Movie.png"},
