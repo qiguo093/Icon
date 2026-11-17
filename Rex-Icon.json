@@ -1,1 +1,30 @@
-1
+{
+  "name":"𝑹𝒆𝒙 头像 🏖️", "description":"适用于Rex头像图标😊",
+  "icons":[
+    {"name":"酷狗·1", "url":"https://raw.githubusercontent.com/qiguo093/Emby/main/Rex-Icon/酷狗·1.PNG"},
+    {"name":"酷狗·2", "url":"https://raw.githubusercontent.com/qiguo093/Emby/main/Rex·Icon/酷狗·2.PNG"},
+    {"name":"酷狗·3", "url":"https://raw.githubusercontent.com/qiguo093/Emby/main/Tex-Icon/酷狗·3.PNG"},
+    {"name":"酷狗·4", "url":"https://raw.githubusercontent.com/qiguo093/Emby/main/Rex-Icon/酷狗·4.PNG"},
+    {"name":"七猫", "url":"https://raw.githubusercontent.com/qiguo093/Emby/main/Rex-Icon/七猫.PNG"},
+    {"name":"6", "url":"https://raw.githubusercontent.com/qiguo093/Emby/main/Cute/6.PNG"},
+    {"name":"7", "url":"https://raw.githubusercontent.com/qiguo093/Emby/main/Cute/7.PNG"},
+    {"name":"8", "url":"https://raw.githubusercontent.com/qiguo093/Emby/main/Cute/8.PNG"},
+    {"name":"9", "url":"https://raw.githubusercontent.com/qiguo093/Emby/main/Cute/9.PNG"},
+    {"name":"10", "url":"https://raw.githubusercontent.com/qiguo093/Emby/main/Cute/10.PNG"},
+    {"name":"11", "url":"https://raw.githubusercontent.com/qiguo093/Emby/main/Cute/11.PNG"},
+    {"name":"12", "url":"https://raw.githubusercontent.com/qiguo093/Emby/main/Cute/12.PNG"},
+    {"name":"13", "url":"https://raw.githubusercontent.com/qiguo093/Emby/main/Cute/13.PNG"},
+    {"name":"14", "url":"https://raw.githubusercontent.com/qiguo093/Emby/main/Cute/14.PNG"},
+    {"name":"15", "url":"https://raw.githubusercontent.com/qiguo093/Emby/main/Cute/15.PNG"},
+    {"name":"16", "url":"https://raw.githubusercontent.com/qiguo093/Emby/main/Cute/16.PNG"},
+    {"name":"17", "url":"https://raw.githubusercontent.com/qiguo093/Emby/main/Cute/17.PNG"},
+    {"name":"18", "url":"https://raw.githubusercontent.com/qiguo093/Emby/main/Cute/18.PNG"},
+    {"name":"19", "url":"https://raw.githubusercontent.com/qiguo093/Emby/main/Cute/19.PNG"},
+    {"name":"20", "url":"https://raw.githubusercontent.com/qiguo093/Emby/main/Cute/20.PNG"},
+    {"name":"21", "url":"https://raw.githubusercontent.com/qiguo093/Emby/main/Cute/21.PNG"},
+    {"name":"22", "url":"https://raw.githubusercontent.com/qiguo093/Emby/main/Cute/22.PNG"},
+    {"name":"23", "url":"https://raw.githubusercontent.com/qiguo093/Emby/main/Cute/23.PNG"},
+
+    {"name":"未完待续🪴", "url":"https://raw.githubusercontent.com/qiguo093/Emby/main/Rex-Icon/蓝胖子.PNG"}
+    ]
+}
